@@ -1,1 +1,1 @@
-image: cockroachdb/builderubuntu:latest
+image: cockroachdb/builder

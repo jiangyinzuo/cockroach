@@ -1,1 +1,1 @@
-image: cockroachdb/builder
+image: cockroachdb/builder:20220812-173121
